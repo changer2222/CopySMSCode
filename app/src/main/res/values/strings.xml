@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">短信验证码复制</string>
+    <string name="app_use">软件使用说明：\n打开软件后给予权限，便可在收到含有验证码的短信后自动复制验证码</string>
+</resources>
